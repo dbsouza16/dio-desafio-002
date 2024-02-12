@@ -24,7 +24,7 @@ body {
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgba(178, 180, 21, 0.336);
+    background-color: gainsboro; 
     min-height: 150px;
 }
 .content {
